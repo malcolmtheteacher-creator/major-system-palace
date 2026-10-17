@@ -3473,7 +3473,7 @@
    ],
    "word": "torch",
    "image": "img/0146.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a flaming torch",
    "alt": "A flaming torch – the peg for 146, \"torch\".",
    "alternates": [
@@ -3500,7 +3500,7 @@
    ],
    "word": "truck",
    "image": "img/0147.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a pickup truck",
    "alt": "A pickup truck – the peg for 147, \"truck\".",
    "alternates": [
@@ -3527,7 +3527,7 @@
    ],
    "word": "trophy",
    "image": "img/0148.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a gold trophy",
    "alt": "A gold trophy – the peg for 148, \"trophy\".",
    "alternates": [
@@ -3554,7 +3554,7 @@
    ],
    "word": "drop",
    "image": "img/0149.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a big water drop",
    "alt": "A big water drop – the peg for 149, \"drop\".",
    "alternates": [
@@ -3581,7 +3581,7 @@
    ],
    "word": "atlas",
    "image": "img/0150.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "an open atlas book showing a coloured map of the world",
    "alt": "An open atlas book showing a coloured map of the world – the peg for 150, \"atlas\".",
    "alternates": [
@@ -3608,7 +3608,7 @@
    ],
    "word": "tealight",
    "image": "img/0151.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a tealight candle",
    "alt": "A tealight candle – the peg for 151, \"tealight\".",
    "alternates": [
@@ -3634,7 +3634,7 @@
    ],
    "word": "talon",
    "image": "img/0152.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "an eagle's talon",
    "alt": "An eagle's talon – the peg for 152, \"talon\".",
    "alternates": [
@@ -3661,7 +3661,7 @@
    ],
    "word": "tall emu",
    "image": "img/0153.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a very tall emu",
    "alt": "A very tall emu – the peg for 153, \"tall emu\".",
    "alternates": [
@@ -3687,7 +3687,7 @@
    ],
    "word": "tailor",
    "image": "img/0154.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a tailor with tape measure",
    "alt": "A tailor with tape measure – the peg for 154, \"tailor\".",
    "alternates": [
@@ -3714,7 +3714,7 @@
    ],
    "word": "toy lolly",
    "image": "img/0155.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a giant swirly toy lollipop",
    "alt": "A giant swirly toy lollipop – the peg for 155, \"toy lolly\".",
    "alternates": [
@@ -3740,7 +3740,7 @@
    ],
    "word": "deluge",
    "image": "img/0156.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a torrential downpour flooding a street",
    "alt": "A torrential downpour flooding a street – the peg for 156, \"deluge\".",
    "alternates": []
@@ -3764,7 +3764,7 @@
    ],
    "word": "tall oak",
    "image": "img/0157.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a tall oak tree",
    "alt": "A tall oak tree – the peg for 157, \"tall oak\".",
    "alternates": [
@@ -3791,7 +3791,7 @@
    ],
    "word": "tea leaf",
    "image": "img/0158.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a single tea leaf",
    "alt": "A single tea leaf – the peg for 158, \"tea leaf\".",
    "alternates": [
@@ -3818,7 +3818,7 @@
    ],
    "word": "tulip",
    "image": "img/0159.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a red tulip",
    "alt": "A red tulip – the peg for 159, \"tulip\".",
    "alternates": [
@@ -3844,7 +3844,7 @@
    ],
    "word": "duchess",
    "image": "img/0160.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a duchess in a tiara",
    "alt": "A duchess in a tiara – the peg for 160, \"duchess\".",
    "alternates": [
@@ -3871,7 +3871,7 @@
    ],
    "word": "Dutch hat",
    "image": "img/0161.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a white Dutch bonnet hat",
    "alt": "A white Dutch bonnet hat – the peg for 161, \"Dutch hat\".",
    "alternates": [
@@ -3898,7 +3898,7 @@
    ],
    "word": "Dijon",
    "image": "img/0162.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a jar of Dijon mustard",
    "alt": "A jar of Dijon mustard – the peg for 162, \"Dijon\".",
    "alternates": [
@@ -3925,7 +3925,7 @@
    ],
    "word": "dodgem",
    "image": "img/0163.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a fairground dodgem car",
    "alt": "A fairground dodgem car – the peg for 163, \"dodgem\".",
    "alternates": []
@@ -3949,7 +3949,7 @@
    ],
    "word": "teacher",
    "image": "img/0164.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a teacher at a blackboard",
    "alt": "A teacher at a blackboard – the peg for 164, \"teacher\".",
    "alternates": [
@@ -3975,7 +3975,7 @@
    ],
    "word": "white shell",
    "image": "img/0165.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a white seashell",
    "alt": "A white seashell – the peg for 165, \"white shell\".",
    "alternates": []
@@ -3999,7 +3999,7 @@
    ],
    "word": "Dutch shoe",
    "image": "img/0166.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a wooden Dutch clog",
    "alt": "A wooden Dutch clog – the peg for 166, \"Dutch shoe\".",
    "alternates": [
@@ -4025,7 +4025,7 @@
    ],
    "word": "woodchuck",
    "image": "img/0167.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a woodchuck",
    "alt": "A woodchuck – the peg for 167, \"woodchuck\".",
    "alternates": []
@@ -4049,7 +4049,7 @@
    ],
    "word": "tea chef",
    "image": "img/0168.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a chef pouring tea",
    "alt": "A chef pouring tea – the peg for 168, \"tea chef\".",
    "alternates": []
@@ -4073,7 +4073,7 @@
    ],
    "word": "tea ship",
    "image": "img/0169.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a tall-masted tea clipper ship",
    "alt": "A tall-masted tea clipper ship – the peg for 169, \"tea ship\".",
    "alternates": []
@@ -4097,7 +4097,7 @@
    ],
    "word": "taxi",
    "image": "img/0170.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a black taxi cab",
    "alt": "A black taxi cab – the peg for 170, \"taxi\".",
    "alternates": [
@@ -4124,7 +4124,7 @@
    ],
    "word": "ticket",
    "image": "img/0171.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a blank paper raffle ticket stub with no writing",
    "alt": "A blank paper raffle ticket stub with no writing – the peg for 171, \"ticket\".",
    "alternates": [
@@ -4151,7 +4151,7 @@
    ],
    "word": "toucan",
    "image": "img/0172.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a toucan with a colourful beak",
    "alt": "A toucan with a colourful beak – the peg for 172, \"toucan\".",
    "alternates": [
@@ -4178,7 +4178,7 @@
    ],
    "word": "dog ham",
    "image": "img/0173.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a dog running off with a ham",
    "alt": "A dog running off with a ham – the peg for 173, \"dog ham\".",
    "alternates": [
@@ -4204,7 +4204,7 @@
    ],
    "word": "tiger",
    "image": "img/0174.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a striped tiger",
    "alt": "A striped tiger – the peg for 174, \"tiger\".",
    "alternates": [
@@ -4231,7 +4231,7 @@
    ],
    "word": "tickle",
    "image": "img/0175.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a feather tickling a foot",
    "alt": "A feather tickling a foot – the peg for 175, \"tickle\".",
    "alternates": [
@@ -4258,7 +4258,7 @@
    ],
    "word": "toy coach",
    "image": "img/0176.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a toy stagecoach",
    "alt": "A toy stagecoach – the peg for 176, \"toy coach\".",
    "alternates": [
@@ -4284,7 +4284,7 @@
    ],
    "word": "teacake",
    "image": "img/0177.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a toasted teacake",
    "alt": "A toasted teacake – the peg for 177, \"teacake\".",
    "alternates": [
@@ -4310,7 +4310,7 @@
    ],
    "word": "takeoff",
    "image": "img/0178.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a rocket taking off",
    "alt": "A rocket taking off – the peg for 178, \"takeoff\".",
    "alternates": [
@@ -4336,7 +4336,7 @@
    ],
    "word": "teacup",
    "image": "img/0179.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a teacup",
    "alt": "A teacup – the peg for 179, \"teacup\".",
    "alternates": []
@@ -4360,7 +4360,7 @@
    ],
    "word": "divas",
    "image": "img/0180.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "opera divas singing",
    "alt": "Opera divas singing – the peg for 180, \"divas\".",
    "alternates": [
@@ -4387,7 +4387,7 @@
    ],
    "word": "David",
    "image": "img/0181.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a marble bust of Michelangelo's David",
    "alt": "A marble bust of Michelangelo's David – the peg for 181, \"David\".",
    "alternates": [
@@ -4413,7 +4413,7 @@
    ],
    "word": "typhoon",
    "image": "img/0182.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a swirling typhoon storm",
    "alt": "A swirling typhoon storm – the peg for 182, \"typhoon\".",
    "alternates": [
@@ -4440,7 +4440,7 @@
    ],
    "word": "dove home",
    "image": "img/0183.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a dovecote with doves",
    "alt": "A dovecote with doves – the peg for 183, \"dove home\".",
    "alternates": [
@@ -4466,7 +4466,7 @@
    ],
    "word": "Dover",
    "image": "img/0184.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "the white cliffs of Dover",
    "alt": "The white cliffs of Dover – the peg for 184, \"Dover\".",
    "alternates": [
@@ -4493,7 +4493,7 @@
    ],
    "word": "duffel",
    "image": "img/0185.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a duffel bag",
    "alt": "A duffel bag – the peg for 185, \"duffel\".",
    "alternates": [
@@ -4519,7 +4519,7 @@
    ],
    "word": "TV show",
    "image": "img/0186.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "an old television set showing a little puppet show",
    "alt": "An old television set showing a little puppet show – the peg for 186, \"TV show\".",
    "alternates": [
@@ -4545,7 +4545,7 @@
    ],
    "word": "tea fig",
    "image": "img/0187.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a ripe fig in a teacup",
    "alt": "A ripe fig in a teacup – the peg for 187, \"tea fig\".",
    "alternates": [
@@ -4571,7 +4571,7 @@
    ],
    "word": "dive off",
    "image": "img/0188.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a diver diving off a high board",
    "alt": "A diver diving off a high board – the peg for 188, \"dive off\".",
    "alternates": [
@@ -4597,7 +4597,7 @@
    ],
    "word": "toffee pie",
    "image": "img/0189.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a toffee pie",
    "alt": "A toffee pie – the peg for 189, \"toffee pie\".",
    "alternates": [
@@ -4623,7 +4623,7 @@
    ],
    "word": "deep sea",
    "image": "img/0190.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a deep-sea anglerfish",
    "alt": "A deep-sea anglerfish – the peg for 190, \"deep sea\".",
    "alternates": [
@@ -4650,7 +4650,7 @@
    ],
    "word": "teapot",
    "image": "img/0191.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a teapot",
    "alt": "A teapot – the peg for 191, \"teapot\".",
    "alternates": [
@@ -4676,7 +4676,7 @@
    ],
    "word": "hot pan",
    "image": "img/0192.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a sizzling frying pan",
    "alt": "A sizzling frying pan – the peg for 192, \"hot pan\".",
    "alternates": [
@@ -4703,7 +4703,7 @@
    ],
    "word": "white puma",
    "image": "img/0193.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a white puma",
    "alt": "A white puma – the peg for 193, \"white puma\".",
    "alternates": [
@@ -4729,7 +4729,7 @@
    ],
    "word": "tapir",
    "image": "img/0194.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a tapir",
    "alt": "A tapir – the peg for 194, \"tapir\".",
    "alternates": [
@@ -4755,7 +4755,7 @@
    ],
    "word": "table",
    "image": "img/0195.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a wooden table",
    "alt": "A wooden table – the peg for 195, \"table\".",
    "alternates": [
@@ -4782,7 +4782,7 @@
    ],
    "word": "tea bush",
    "image": "img/0196.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a tea bush with green leaves",
    "alt": "A tea bush with green leaves – the peg for 196, \"tea bush\".",
    "alternates": []
@@ -4806,7 +4806,7 @@
    ],
    "word": "teabag",
    "image": "img/0197.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a teabag",
    "alt": "A teabag – the peg for 197, \"teabag\".",
    "alternates": [
@@ -4832,7 +4832,7 @@
    ],
    "word": "tuba ivy",
    "image": "img/0198.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a brass tuba wrapped in green ivy",
    "alt": "A brass tuba wrapped in green ivy – the peg for 198, \"tuba ivy\".",
    "alternates": [
@@ -4859,7 +4859,7 @@
    ],
    "word": "wet puppy",
    "image": "img/0199.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a soaking wet puppy shaking off bath water",
    "alt": "A soaking wet puppy shaking off bath water – the peg for 199, \"wet puppy\".",
    "alternates": [
@@ -4885,7 +4885,7 @@
    ],
    "word": "noisy zoo",
    "image": "img/0200.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a noisy zoo with animals",
    "alt": "A noisy zoo with animals – the peg for 200, \"noisy zoo\".",
    "alternates": [
@@ -4912,7 +4912,7 @@
    ],
    "word": "nest",
    "image": "img/0201.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a bird's nest with eggs",
    "alt": "A bird's nest with eggs – the peg for 201, \"nest\".",
    "alternates": [
@@ -4939,7 +4939,7 @@
    ],
    "word": "new sun",
    "image": "img/0202.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a bright new sunrise",
    "alt": "A bright new sunrise – the peg for 202, \"new sun\".",
    "alternates": [
@@ -4966,7 +4966,7 @@
    ],
    "word": "hansom",
    "image": "img/0203.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a Victorian hansom cab",
    "alt": "A Victorian hansom cab – the peg for 203, \"hansom\".",
    "alternates": [
@@ -4993,7 +4993,7 @@
    ],
    "word": "Windsor",
    "image": "img/0204.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "Windsor Castle with its round tower and flag",
    "alt": "Windsor Castle with its round tower and flag – the peg for 204, \"Windsor\".",
    "alternates": [
@@ -5020,7 +5020,7 @@
    ],
    "word": "nozzle",
    "image": "img/0205.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a hose nozzle spraying water",
    "alt": "A hose nozzle spraying water – the peg for 205, \"nozzle\".",
    "alternates": [
@@ -5047,7 +5047,7 @@
    ],
    "word": "noisy shoe",
    "image": "img/0206.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a squeaky shoe",
    "alt": "A squeaky shoe – the peg for 206, \"noisy shoe\".",
    "alternates": [
@@ -5073,7 +5073,7 @@
    ],
    "word": "nosy cow",
    "image": "img/0207.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a nosy cow peering over a fence",
    "alt": "A nosy cow peering over a fence – the peg for 207, \"nosy cow\".",
    "alternates": [
@@ -5099,7 +5099,7 @@
    ],
    "word": "new sofa",
    "image": "img/0208.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a brand-new sofa",
    "alt": "A brand-new sofa – the peg for 208, \"new sofa\".",
    "alternates": [
@@ -5125,7 +5125,7 @@
    ],
    "word": "noisy bee",
    "image": "img/0209.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a buzzing bee",
    "alt": "A buzzing bee – the peg for 209, \"noisy bee\".",
    "alternates": [
@@ -5151,7 +5151,7 @@
    ],
    "word": "nuts",
    "image": "img/0210.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a pile of walnuts",
    "alt": "A pile of walnuts – the peg for 210, \"nuts\".",
    "alternates": [
@@ -5178,7 +5178,7 @@
    ],
    "word": "untidy",
    "image": "img/0211.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "an untidy messy bedroom",
    "alt": "An untidy messy bedroom – the peg for 211, \"untidy\".",
    "alternates": [
@@ -5205,7 +5205,7 @@
    ],
    "word": "antenna",
    "image": "img/0212.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a television antenna",
    "alt": "A television antenna – the peg for 212, \"antenna\".",
    "alternates": [
@@ -5232,7 +5232,7 @@
    ],
    "word": "anatomy",
    "image": "img/0213.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "an anatomy skeleton model on a stand",
    "alt": "An anatomy skeleton model on a stand – the peg for 213, \"anatomy\".",
    "alternates": [
@@ -5258,7 +5258,7 @@
    ],
    "word": "winter",
    "image": "img/0214.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a snowy winter scene",
    "alt": "A snowy winter scene – the peg for 214, \"winter\".",
    "alternates": [
@@ -5284,7 +5284,7 @@
    ],
    "word": "noodle",
    "image": "img/0215.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a bowl of noodles",
    "alt": "A bowl of noodles – the peg for 215, \"noodle\".",
    "alternates": [
@@ -5311,7 +5311,7 @@
    ],
    "word": "night watch",
    "image": "img/0216.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a night watchman holding a lantern under the stars",
    "alt": "A night watchman holding a lantern under the stars – the peg for 216, \"night watch\".",
    "alternates": [
@@ -5337,7 +5337,7 @@
    ],
    "word": "nighthawk",
    "image": "img/0217.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a nighthawk bird",
    "alt": "A nighthawk bird – the peg for 217, \"nighthawk\".",
    "alternates": [
@@ -5364,7 +5364,7 @@
    ],
    "word": "endive",
    "image": "img/0218.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "an endive salad leaf",
    "alt": "An endive salad leaf – the peg for 218, \"endive\".",
    "alternates": [
@@ -5390,7 +5390,7 @@
    ],
    "word": "windup",
    "image": "img/0219.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a wind-up toy robot",
    "alt": "A wind-up toy robot – the peg for 219, \"windup\".",
    "alternates": [
@@ -5416,7 +5416,7 @@
    ],
    "word": "neon sea",
    "image": "img/0220.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a sea glowing bright neon blue at night",
    "alt": "A sea glowing bright neon blue at night – the peg for 220, \"neon sea\".",
    "alternates": [
@@ -5443,7 +5443,7 @@
    ],
    "word": "neon tie",
    "image": "img/0221.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a necktie made of glowing neon light",
    "alt": "A necktie made of glowing neon light – the peg for 221, \"neon tie\".",
    "alternates": [
@@ -5469,7 +5469,7 @@
    ],
    "word": "neon hen",
    "image": "img/0222.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a hen made of glowing neon light",
    "alt": "A hen made of glowing neon light – the peg for 222, \"neon hen\".",
    "alternates": [
@@ -5495,7 +5495,7 @@
    ],
    "word": "neon emu",
    "image": "img/0223.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "an emu made of glowing neon light",
    "alt": "An emu made of glowing neon light – the peg for 223, \"neon emu\".",
    "alternates": [
@@ -5521,7 +5521,7 @@
    ],
    "word": "neon arrow",
    "image": "img/0224.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "an arrow made of glowing neon light",
    "alt": "An arrow made of glowing neon light – the peg for 224, \"neon arrow\".",
    "alternates": [
@@ -5547,7 +5547,7 @@
    ],
    "word": "neon owl",
    "image": "img/0225.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "an owl made of glowing neon light",
    "alt": "An owl made of glowing neon light – the peg for 225, \"neon owl\".",
    "alternates": []
@@ -5571,7 +5571,7 @@
    ],
    "word": "ninja",
    "image": "img/0226.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a ninja in black",
    "alt": "A ninja in black – the peg for 226, \"ninja\".",
    "alternates": [
@@ -5597,7 +5597,7 @@
    ],
    "word": "neon cow",
    "image": "img/0227.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a cow made of glowing neon light",
    "alt": "A cow made of glowing neon light – the peg for 227, \"neon cow\".",
    "alternates": [
@@ -5623,7 +5623,7 @@
    ],
    "word": "neon ivy",
    "image": "img/0228.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "ivy leaves made of glowing neon light",
    "alt": "Ivy leaves made of glowing neon light – the peg for 228, \"neon ivy\".",
    "alternates": [
@@ -5649,7 +5649,7 @@
    ],
    "word": "neon pie",
    "image": "img/0229.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a pie made of glowing neon light",
    "alt": "A pie made of glowing neon light – the peg for 229, \"neon pie\".",
    "alternates": [
@@ -5675,7 +5675,7 @@
    ],
    "word": "new mouse",
    "image": "img/0230.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a sleek computer mouse",
    "alt": "A sleek computer mouse – the peg for 230, \"new mouse\".",
    "alternates": [
@@ -5701,7 +5701,7 @@
    ],
    "word": "nomad",
    "image": "img/0231.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a desert nomad with a camel",
    "alt": "A desert nomad with a camel – the peg for 231, \"nomad\".",
    "alternates": [
@@ -5727,7 +5727,7 @@
    ],
    "word": "anemone",
    "image": "img/0232.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a sea anemone",
    "alt": "A sea anemone – the peg for 232, \"anemone\".",
    "alternates": [
@@ -5753,7 +5753,7 @@
    ],
    "word": "gnome home",
    "image": "img/0233.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a gnome's toadstool house",
    "alt": "A gnome's toadstool house – the peg for 233, \"gnome home\".",
    "alternates": [
@@ -5779,7 +5779,7 @@
    ],
    "word": "new mower",
    "image": "img/0234.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a shiny new lawnmower",
    "alt": "A shiny new lawnmower – the peg for 234, \"new mower\".",
    "alternates": [
@@ -5805,7 +5805,7 @@
    ],
    "word": "enamel",
    "image": "img/0235.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a blue enamel jug",
    "alt": "A blue enamel jug – the peg for 235, \"enamel\".",
    "alternates": [
@@ -5831,7 +5831,7 @@
    ],
    "word": "gnome wash",
    "image": "img/0236.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a gnome taking a bubble bath",
    "alt": "A gnome taking a bubble bath – the peg for 236, \"gnome wash\".",
    "alternates": [
@@ -5857,7 +5857,7 @@
    ],
    "word": "gnome wig",
    "image": "img/0237.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a gnome wearing a curly wig",
    "alt": "A gnome wearing a curly wig – the peg for 237, \"gnome wig\".",
    "alternates": [
@@ -5883,7 +5883,7 @@
    ],
    "word": "nymph",
    "image": "img/0238.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a woodland nymph",
    "alt": "A woodland nymph – the peg for 238, \"nymph\".",
    "alternates": []
@@ -5907,7 +5907,7 @@
    ],
    "word": "gnome bow",
    "image": "img/0239.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a gnome with a bow and arrow",
    "alt": "A gnome with a bow and arrow – the peg for 239, \"gnome bow\".",
    "alternates": [
@@ -5933,7 +5933,7 @@
    ],
    "word": "nurse",
    "image": "img/0240.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a nurse",
    "alt": "A nurse – the peg for 240, \"nurse\".",
    "alternates": [
@@ -5959,7 +5959,7 @@
    ],
    "word": "nerd",
    "image": "img/0241.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a cheerful boy with big round glasses carrying a pile of books",
    "alt": "A cheerful boy with big round glasses carrying a pile of books – the peg for 241, \"nerd\".",
    "alternates": [
@@ -5986,7 +5986,7 @@
    ],
    "word": "neuron",
    "image": "img/0242.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a glowing neuron brain cell",
    "alt": "A glowing neuron brain cell – the peg for 242, \"neuron\".",
    "alternates": [
@@ -6012,7 +6012,7 @@
    ],
    "word": "hen worm",
    "image": "img/0243.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a hen pulling up a worm",
    "alt": "A hen pulling up a worm – the peg for 243, \"hen worm\".",
    "alternates": [
@@ -6038,7 +6038,7 @@
    ],
    "word": "hen rower",
    "image": "img/0244.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a hen rowing a boat",
    "alt": "A hen rowing a boat – the peg for 244, \"hen rower\".",
    "alternates": [
@@ -6064,7 +6064,7 @@
    ],
    "word": "narwhal",
    "image": "img/0245.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a narwhal with spiral tusk",
    "alt": "A narwhal with spiral tusk – the peg for 245, \"narwhal\".",
    "alternates": [
@@ -6090,7 +6090,7 @@
    ],
    "word": "new arch",
    "image": "img/0246.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a newly built stone arch",
    "alt": "A newly built stone arch – the peg for 246, \"new arch\".",
    "alternates": [
@@ -6116,7 +6116,7 @@
    ],
    "word": "anorak",
    "image": "img/0247.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a yellow anorak raincoat",
    "alt": "A yellow anorak raincoat – the peg for 247, \"anorak\".",
    "alternates": [
@@ -6142,7 +6142,7 @@
    ],
    "word": "hen roof",
    "image": "img/0248.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a hen on a roof",
    "alt": "A hen on a roof – the peg for 248, \"hen roof\".",
    "alternates": [
@@ -6168,7 +6168,7 @@
    ],
    "word": "unwrap",
    "image": "img/0249.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "hands unwrapping a gift box with a ribbon",
    "alt": "Hands unwrapping a gift box with a ribbon – the peg for 249, \"unwrap\".",
    "alternates": [
@@ -6194,7 +6194,7 @@
    ],
    "word": "hen lasso",
    "image": "img/0250.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a cowboy hen swinging a lasso",
    "alt": "A cowboy hen swinging a lasso – the peg for 250, \"hen lasso\".",
    "alternates": [
@@ -6220,7 +6220,7 @@
    ],
    "word": "unlit",
    "image": "img/0251.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "an unlit candle",
    "alt": "An unlit candle – the peg for 251, \"unlit\".",
    "alternates": [
@@ -6247,7 +6247,7 @@
    ],
    "word": "honey lion",
    "image": "img/0252.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a lion licking honey",
    "alt": "A lion licking honey – the peg for 252, \"honey lion\".",
    "alternates": [
@@ -6273,7 +6273,7 @@
    ],
    "word": "new lamb",
    "image": "img/0253.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a newborn lamb",
    "alt": "A newborn lamb – the peg for 253, \"new lamb\".",
    "alternates": []
@@ -6297,7 +6297,7 @@
    ],
    "word": "inhaler",
    "image": "img/0254.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "an inhaler",
    "alt": "An inhaler – the peg for 254, \"inhaler\".",
    "alternates": []
@@ -6321,7 +6321,7 @@
    ],
    "word": "Honolulu",
    "image": "img/0255.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a Honolulu beach with palm trees",
    "alt": "A Honolulu beach with palm trees – the peg for 255, \"Honolulu\".",
    "alternates": []
@@ -6345,7 +6345,7 @@
    ],
    "word": "hen leash",
    "image": "img/0256.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a hen on a leash",
    "alt": "A hen on a leash – the peg for 256, \"hen leash\".",
    "alternates": [
@@ -6371,7 +6371,7 @@
    ],
    "word": "unlock",
    "image": "img/0257.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a key unlocking a padlock",
    "alt": "A key unlocking a padlock – the peg for 257, \"unlock\".",
    "alternates": [
@@ -6397,7 +6397,7 @@
    ],
    "word": "new loaf",
    "image": "img/0258.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a fresh loaf of bread",
    "alt": "A fresh loaf of bread – the peg for 258, \"new loaf\".",
    "alternates": [
@@ -6423,7 +6423,7 @@
    ],
    "word": "nail bow",
    "image": "img/0259.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a nail tied with a red bow",
    "alt": "A nail tied with a red bow – the peg for 259, \"nail bow\".",
    "alternates": []
@@ -6447,7 +6447,7 @@
    ],
    "word": "hen chess",
    "image": "img/0260.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a hen playing chess",
    "alt": "A hen playing chess – the peg for 260, \"hen chess\".",
    "alternates": [
@@ -6473,7 +6473,7 @@
    ],
    "word": "hen shed",
    "image": "img/0261.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a wooden hen house",
    "alt": "A wooden hen house – the peg for 261, \"hen shed\".",
    "alternates": []
@@ -6497,7 +6497,7 @@
    ],
    "word": "engine",
    "image": "img/0262.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a steam engine",
    "alt": "A steam engine – the peg for 262, \"engine\".",
    "alternates": [
@@ -6524,7 +6524,7 @@
    ],
    "word": "honey gem",
    "image": "img/0263.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "an amber honey-coloured gem",
    "alt": "An amber honey-coloured gem – the peg for 263, \"honey gem\".",
    "alternates": []
@@ -6548,7 +6548,7 @@
    ],
    "word": "honey jar",
    "image": "img/0264.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a jar of honey",
    "alt": "A jar of honey – the peg for 264, \"honey jar\".",
    "alternates": [
@@ -6574,7 +6574,7 @@
    ],
    "word": "angel",
    "image": "img/0265.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "an angel with wings",
    "alt": "An angel with wings – the peg for 265, \"angel\".",
    "alternates": [
@@ -6600,7 +6600,7 @@
    ],
    "word": "hen judge",
    "image": "img/0266.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a hen wearing a judge's wig",
    "alt": "A hen wearing a judge's wig – the peg for 266, \"hen judge\".",
    "alternates": [
@@ -6626,7 +6626,7 @@
    ],
    "word": "hen chick",
    "image": "img/0267.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a hen with her chick",
    "alt": "A hen with her chick – the peg for 267, \"hen chick\".",
    "alternates": []
@@ -6650,7 +6650,7 @@
    ],
    "word": "anchovy",
    "image": "img/0268.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "an anchovy fish",
    "alt": "An anchovy fish – the peg for 268, \"anchovy\".",
    "alternates": []
@@ -6674,7 +6674,7 @@
    ],
    "word": "new ship",
    "image": "img/0269.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a newly launched ship",
    "alt": "A newly launched ship – the peg for 269, \"new ship\".",
    "alternates": [
@@ -6700,7 +6700,7 @@
    ],
    "word": "onyx",
    "image": "img/0270.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a black onyx stone",
    "alt": "A black onyx stone – the peg for 270, \"onyx\".",
    "alternates": [
@@ -6727,7 +6727,7 @@
    ],
    "word": "nugget",
    "image": "img/0271.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a gold nugget",
    "alt": "A gold nugget – the peg for 271, \"nugget\".",
    "alternates": []
@@ -6751,7 +6751,7 @@
    ],
    "word": "new queen",
    "image": "img/0272.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a newly crowned queen",
    "alt": "A newly crowned queen – the peg for 272, \"new queen\".",
    "alternates": [
@@ -6777,7 +6777,7 @@
    ],
    "word": "honeycomb",
    "image": "img/0273.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a honeycomb",
    "alt": "A honeycomb – the peg for 273, \"honeycomb\".",
    "alternates": [
@@ -6803,7 +6803,7 @@
    ],
    "word": "Niagara",
    "image": "img/0274.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "Niagara Falls",
    "alt": "Niagara Falls – the peg for 274, \"Niagara\".",
    "alternates": [
@@ -6829,7 +6829,7 @@
    ],
    "word": "knuckle",
    "image": "img/0275.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a clenched fist showing knuckles",
    "alt": "A clenched fist showing knuckles – the peg for 275, \"knuckle\".",
    "alternates": [
@@ -6855,7 +6855,7 @@
    ],
    "word": "hen cage",
    "image": "img/0276.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a hen in a cage",
    "alt": "A hen in a cage – the peg for 276, \"hen cage\".",
    "alternates": [
@@ -6881,7 +6881,7 @@
    ],
    "word": "honey cake",
    "image": "img/0277.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a honey cake",
    "alt": "A honey cake – the peg for 277, \"honey cake\".",
    "alternates": []
@@ -6905,7 +6905,7 @@
    ],
    "word": "honey cave",
    "image": "img/0278.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a cave dripping with honey",
    "alt": "A cave dripping with honey – the peg for 278, \"honey cave\".",
    "alternates": [
@@ -6931,7 +6931,7 @@
    ],
    "word": "new cap",
    "image": "img/0279.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a new baseball cap",
    "alt": "A new baseball cap – the peg for 279, \"new cap\".",
    "alternates": [
@@ -6957,7 +6957,7 @@
    ],
    "word": "navy sea",
    "image": "img/0280.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a deep navy-blue sea",
    "alt": "A deep navy-blue sea – the peg for 280, \"navy sea\".",
    "alternates": [
@@ -6984,7 +6984,7 @@
    ],
    "word": "navy hat",
    "image": "img/0281.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a navy sailor hat",
    "alt": "A navy sailor hat – the peg for 281, \"navy hat\".",
    "alternates": [
@@ -7011,7 +7011,7 @@
    ],
    "word": "new phone",
    "image": "img/0282.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a new smartphone",
    "alt": "A new smartphone – the peg for 282, \"new phone\".",
    "alternates": [
@@ -7037,7 +7037,7 @@
    ],
    "word": "knife ham",
    "image": "img/0283.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a knife slicing a ham",
    "alt": "A knife slicing a ham – the peg for 283, \"knife ham\".",
    "alternates": [
@@ -7063,7 +7063,7 @@
    ],
    "word": "navy ray",
    "image": "img/0284.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a navy-blue manta ray",
    "alt": "A navy-blue manta ray – the peg for 284, \"navy ray\".",
    "alternates": [
@@ -7089,7 +7089,7 @@
    ],
    "word": "anvil",
    "image": "img/0285.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a blacksmith's anvil",
    "alt": "A blacksmith's anvil – the peg for 285, \"anvil\".",
    "alternates": [
@@ -7115,7 +7115,7 @@
    ],
    "word": "navy jay",
    "image": "img/0286.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a blue jay bird",
    "alt": "A blue jay bird – the peg for 286, \"navy jay\".",
    "alternates": [
@@ -7141,7 +7141,7 @@
    ],
    "word": "navy key",
    "image": "img/0287.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a navy-blue key",
    "alt": "A navy-blue key – the peg for 287, \"navy key\".",
    "alternates": [
@@ -7167,7 +7167,7 @@
    ],
    "word": "navy wave",
    "image": "img/0288.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a deep blue wave",
    "alt": "A deep blue wave – the peg for 288, \"navy wave\".",
    "alternates": []
@@ -7191,7 +7191,7 @@
    ],
    "word": "navy boy",
    "image": "img/0289.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a sailor boy in navy uniform",
    "alt": "A sailor boy in navy uniform – the peg for 289, \"navy boy\".",
    "alternates": [
@@ -7217,7 +7217,7 @@
    ],
    "word": "Anubis",
    "image": "img/0290.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a statue of the jackal-headed Egyptian god Anubis",
    "alt": "A statue of the jackal-headed Egyptian god Anubis – the peg for 290, \"Anubis\".",
    "alternates": [
@@ -7243,7 +7243,7 @@
    ],
    "word": "knee pad",
    "image": "img/0291.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a knee pad",
    "alt": "A knee pad – the peg for 291, \"knee pad\".",
    "alternates": [
@@ -7269,7 +7269,7 @@
    ],
    "word": "honey bun",
    "image": "img/0292.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a sticky honey bun",
    "alt": "A sticky honey bun – the peg for 292, \"honey bun\".",
    "alternates": [
@@ -7295,7 +7295,7 @@
    ],
    "word": "new palm",
    "image": "img/0293.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a young palm tree",
    "alt": "A young palm tree – the peg for 293, \"new palm\".",
    "alternates": []
@@ -7319,7 +7319,7 @@
    ],
    "word": "honey bear",
    "image": "img/0294.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a bear eating honey",
    "alt": "A bear eating honey – the peg for 294, \"honey bear\".",
    "alternates": [
@@ -7345,7 +7345,7 @@
    ],
    "word": "nebula",
    "image": "img/0295.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a colourful nebula in space",
    "alt": "A colourful nebula in space – the peg for 295, \"nebula\".",
    "alternates": [
@@ -7371,7 +7371,7 @@
    ],
    "word": "new badge",
    "image": "img/0296.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a shiny new badge",
    "alt": "A shiny new badge – the peg for 296, \"new badge\".",
    "alternates": [
@@ -7397,7 +7397,7 @@
    ],
    "word": "new book",
    "image": "img/0297.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a new book",
    "alt": "A new book – the peg for 297, \"new book\".",
    "alternates": []
@@ -7421,7 +7421,7 @@
    ],
    "word": "honey puff",
    "image": "img/0298.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a honey puff pastry",
    "alt": "A honey puff pastry – the peg for 298, \"honey puff\".",
    "alternates": []
@@ -7445,7 +7445,7 @@
    ],
    "word": "new baby",
    "image": "img/0299.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "a newborn baby in a blanket",
    "alt": "A newborn baby in a blanket – the peg for 299, \"new baby\".",
    "alternates": []
@@ -7469,7 +7469,7 @@
    ],
    "word": "Moses",
    "image": "img/0300.webp",
-   "hasImage": false,
+   "hasImage": true,
    "description": "Moses with his staff parting the Red Sea",
    "alt": "Moses with his staff parting the Red Sea – the peg for 300, \"Moses\".",
    "alternates": [
