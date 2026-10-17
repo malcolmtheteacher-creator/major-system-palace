@@ -80,54 +80,73 @@
   }
 
   // ---------- views ----------
+  // Peg pictures that hang in each open wing's archway (the word the wing is named after).
+  const WING_ART = { 0: 202, 1: 179, 2: 264, 3: 32 };
+  const WING_SOUND = ['s', 't', 'n', 'm', 'r', 'l', 'ch', 'k', 'f', 'b'];
   function viewHome() {
     setTitle('');
     const notes = Object.keys(loadNotes()).length;
-    const wings = WINGS.map(w => {
+    const arches = WINGS.map(w => {
       const built = DATA.filter(e => e.n >= w.from && e.n <= w.to).length;
       const total = w.to - w.from + 1;
-      if (!built) return `<a class="wingcard locked" href="#/wing/${w.id}" aria-label="${esc(w.name)}, ${w.from} to ${w.to}, coming soon"><span class="range">${w.from}–${w.to}</span><span class="name">${esc(w.name)}</span><span class="meta"><span class="badge soon">Coming soon</span></span></a>`;
-      return `<a class="wingcard" href="#/wing/${w.id}"><span class="range">${w.from}–${w.to}</span><span class="name">${esc(w.name)}</span><span class="meta">${built === total ? 'Open · ' + built + ' pegs' : '<span class="badge">Partly open</span> ' + built + ' of ' + total}</span></a>`;
+      const sound = `<span class="arch-key" aria-hidden="true"><b>${w.id}</b>${WING_SOUND[w.id]}</span>`;
+      if (!built) {
+        return `<li class="is-locked"><a class="arch locked" href="#/wing/${w.id}" aria-label="${esc(w.name)}, ${w.from} to ${w.to}, closed, coming soon">
+          <span class="arch-frame"><span class="arch-win"><span class="arch-door" aria-hidden="true"></span></span></span>
+          <span class="arch-plaque">${sound}<span class="arch-range">${w.from}–${w.to}</span><span class="arch-name">${esc(w.name)}</span><span class="arch-meta">Closed · coming soon</span></span></a></li>`;
+      }
+      const art = BY.get(WING_ART[w.id]);
+      const pic = art && art.hasImage
+        ? `<img src="${art.image}" alt="" loading="lazy" decoding="async" width="512" height="512">`
+        : `<span class="arch-glow" aria-hidden="true"></span>`;
+      const meta = built === total ? `${built} pegs open` : `${built} of ${total} open`;
+      return `<li><a class="arch open${built === total ? '' : ' partial'}" href="#/wing/${w.id}" aria-label="${esc(w.name)}, ${w.from} to ${w.to}, ${meta}">
+        <span class="arch-frame"><span class="arch-win">${pic}</span></span>
+        <span class="arch-plaque">${sound}<span class="arch-range">${w.from}–${w.to}</span><span class="arch-name">${esc(w.name)}</span><span class="arch-meta">${built === total ? meta : '<span class="badge">Partly open</span> ' + built + ' of ' + total}</span></span></a></li>`;
     }).join('');
+    const frieze = SOUND_TABLE.map(r => `<li><b>${r[0]}</b><span>${esc(r[1].replace(' (th)', ''))}</span></li>`).join('');
     $main.innerHTML = `
-      <section class="hero">
-        <div>
-          <h1>The Major System <em>Memory Palace</em></h1>
-          <p class="lead">A palace with a room for every ten numbers and a picture for every number. Each picture is a word whose consonant sounds spell out its digits, so <strong>137</strong> (t-m-k) is a <em>tomahawk</em>. Walk the halls, learn the pegs, and pin your own ideas to any number.</p>
-          <div class="btnrow">
-            <a class="btn gold" href="#/room/0">Enter the Vestibule (1–9)</a>
-            <a class="btn ghost" href="#/how">How the Major System works</a>
-            <a class="btn ghost" href="#/practice">Practise</a>
+      <section class="ent-hero" aria-labelledby="entTitle">
+        <picture class="ent-hero-img">
+          <source media="(max-width: 640px)" srcset="img/ui/entrance-mobile.webp" width="720" height="800">
+          <img src="img/ui/entrance-1280.webp" srcset="img/ui/entrance-960.webp 960w, img/ui/entrance-1280.webp 1280w" sizes="100vw" width="1280" height="720" fetchpriority="high" decoding="async" alt="A painted palace at dusk, its windows lit, with steps rising through a lantern-lit garden to an open, glowing doorway.">
+        </picture>
+        <div class="ent-hero-inner">
+          <p class="ent-eyebrow">A memory palace for numbers</p>
+          <h1 id="entTitle">The Major System <em>Memory Palace</em></h1>
+          <p class="ent-lead">A room for every ten numbers and a picture for every number. Each picture is a word whose consonant sounds spell out its digits, so <strong>137</strong> (t-m-k) is a <em>tomahawk</em>. Walk the halls, learn the pegs, and pin your own ideas to any number.</p>
+          <div class="ent-doors">
+            <a class="ent-door primary" href="#/room/0"><span class="k">Enter</span><span class="t">The Vestibule · 1–9</span></a>
+            <a class="ent-door" href="#/how"><span class="k">Learn</span><span class="t">How the Major System works</span></a>
+            <a class="ent-door" href="#/practice"><span class="k">Train</span><span class="t">Practise</span></a>
           </div>
-          <p class="hint">${DATA.length} numbers open (1–${MAXN}) · ${notes} note${notes === 1 ? '' : 's'} saved in this browser</p>
+          <p class="hint ent-stats">${DATA.length} numbers open (1–${MAXN}) · ${notes} note${notes === 1 ? '' : 's'} saved in this browser</p>
         </div>
-        <div class="hero-art" aria-hidden="true">${palaceSVG()}</div>
       </section>
-      <h2>The palace <em>map</em></h2>
-      <p class="lead">Each wing holds a hundred numbers and is named after a word that starts with that hundred's sound. Each wing has ten rooms of ten.</p>
-      <div class="palace-map">${wings}
-        <div class="wingcard locked tower"><span class="name">The Tower · 1000</span><span class="badge soon">Coming soon</span></div>
+      <div class="ent-frieze-band">
+        <div class="ent-wrap">
+          <a class="ent-frieze-link" href="#/how" aria-label="The ten digit sounds: 0 s or z, 1 t or d, 2 n, 3 m, 4 r, 5 l, 6 sh, ch or j, 7 k or g, 8 f or v, 9 p or b. Read how it works."><ol class="ent-frieze" aria-hidden="true">${frieze}</ol></a>
+        </div>
       </div>
-      <div class="legend">
-        <div class="panel"><h3>Wings → rooms → spots</h3><p>A wing is a hundred numbers (100–199 is the Tea Wing). A room is ten numbers, named after the peg for its first two digits: 130–139 is the Dome Room because 13 is a dome. A spot is one number with its picture, set somewhere around the room.</p></div>
-        <div class="panel"><h3>Your notes</h3><p>Every number has a notebook. Anything you write is saved automatically, and a gold dot marks the number on the map. Type <code>#137</code> in a note to link to another number. Back up or move your notes from <a href="#/notes">My notes</a>.</p></div>
-        <div class="panel"><h3>Keyboard</h3><p>On a number page, press <kbd>←</kbd>/<kbd>→</kbd> for the previous or next number and <kbd>Esc</kbd> to go back to the room. Press <kbd>/</kbd> anywhere to search.</p></div>
-      </div>`;
-  }
-
-  function palaceSVG() {
-    let cols = '';
-    for (let i = 0; i < 7; i++) { const x = 70 + i * 43; cols += `<rect x="${x}" y="150" width="14" height="120" fill="#e9dfc8" opacity=".9"/>`; }
-    let stars = '';
-    for (let i = 0; i < 26; i++) stars += `<circle cx="${(i * 97) % 400}" cy="${(i * 53) % 110}" r="${i % 3 ? 1 : 1.8}" fill="#f3e2b0" opacity=".8"/>`;
-    return `<svg viewBox="0 0 400 300" preserveAspectRatio="xMidYMid slice">${stars}
-      <circle cx="320" cy="60" r="26" fill="#f3e2b0"/><circle cx="330" cy="54" r="24" fill="#244637"/>
-      <rect x="40" y="270" width="320" height="30" fill="#c08a2d" opacity=".55"/>
-      <polygon points="50,150 200,70 350,150" fill="#c08a2d"/><polygon points="80,145 200,85 320,145" fill="#1e3a2f"/>
-      <text x="200" y="134" text-anchor="middle" font-family="Instrument Serif,Georgia" font-size="28" fill="#f3e2b0">0 1 2 3 4 5 6 7 8 9</text>
-      <rect x="55" y="150" width="290" height="10" fill="#c08a2d"/>${cols}
-      <rect x="178" y="200" width="44" height="70" rx="22" fill="#c08a2d" opacity=".9"/>
-      <rect x="40" y="262" width="320" height="10" fill="#e9dfc8"/></svg>`;
+      <div class="ent-wrap">
+        <section class="ent-plan" aria-labelledby="planTitle">
+          <p class="ent-eyebrow dark">The palace plan</p>
+          <h2 id="planTitle">Ten wings, one for every <em>hundred</em></h2>
+          <p class="lead">Each wing is named after a word that starts with its hundred's sound, and holds ten rooms of ten. Step through an open archway, or peek at the doors still being built.</p>
+          <ol class="ent-arcade">${arches}</ol>
+          <div class="ent-tower">
+            <svg viewBox="0 0 60 96" width="44" height="70" aria-hidden="true"><path d="M14 92V30h-4V16h6v6h6v-6h6v6h4v-6h6v6h6v-6h6v14h-4v62z" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linejoin="round"/><path d="M24 92V74a6 6 0 0 1 12 0v18M27 44h6v10h-6z" fill="none" stroke="currentColor" stroke-width="2.4"/></svg>
+            <div><span class="arch-range">1000</span><span class="arch-name">The Tower</span><span class="arch-meta">Closed · coming soon</span></div>
+          </div>
+        </section>
+      </div>
+      <section class="ent-guide" aria-label="How the palace works">
+        <div class="ent-wrap ent-guide-grid">
+          <div><span class="ent-num" aria-hidden="true">I</span><h3>Wings → rooms → spots</h3><p>A wing is a hundred numbers (100–199 is the Tea Wing). A room is ten numbers, named after the peg for its first two digits: 130–139 is the Dome Room because 13 is a dome. A spot is one number with its picture, set somewhere around the room.</p></div>
+          <div><span class="ent-num" aria-hidden="true">II</span><h3>Your notes</h3><p>Every number has a notebook. Anything you write is saved automatically, and a gold dot marks the number on the map. Type <code>#137</code> in a note to link to another number. Back up or move your notes from <a href="#/notes">My notes</a>.</p></div>
+          <div><span class="ent-num" aria-hidden="true">III</span><h3>Keyboard</h3><p>On a number page, press <kbd>←</kbd>/<kbd>→</kbd> for the previous or next number and <kbd>Esc</kbd> to go back to the room. Press <kbd>/</kbd> anywhere to search.</p></div>
+        </div>
+      </section>`;
   }
 
   function viewWing(id) {
@@ -394,6 +413,7 @@
   function route() {
     const h = location.hash || '#/';
     markNav(h);
+    $main.classList.toggle('is-home', h === '#/' || h === '#');
     let m;
     if (h === '#/' || h === '#') viewHome();
     else if ((m = h.match(/^#\/n\/(\d+)$/))) viewNumber(+m[1]);
