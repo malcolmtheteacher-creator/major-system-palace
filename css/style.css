@@ -27,6 +27,7 @@ h1 em,h2 em{color:var(--gold);font-style:italic}
 .search input::placeholder{color:#b9c9bf}
 main{max-width:1100px;margin:0 auto;padding:clamp(1rem,3vw,2.2rem) clamp(.8rem,3vw,2rem) 3rem;min-height:70vh}
 main:focus{outline:none}
+h1[tabindex="-1"]:focus{outline:none}
 .loading{color:var(--ink2)}
 .foot{border-top:1px solid var(--line);color:var(--ink2);font-size:.88rem;text-align:center;padding:1.2rem 1rem 2rem}
 .crumbs{font-size:.88rem;color:var(--ink2);margin-bottom:.6rem}
