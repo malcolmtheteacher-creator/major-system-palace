@@ -35,7 +35,7 @@
 35|mole|a velvety mole digging|mule, mail
 36|match|a lit matchstick|mash, mush
 37|mug|a steaming coffee mug|mic, mike
-38|movie|a film reel and popcorn|muff, mauve
+38|movie|a film reel beside a striped popcorn box|muff, mauve
 39|map|an old treasure map|mop, mob
 40|rose|a red rose|rice, horse
 41|rat|a cheeky brown rat|road, root
@@ -133,7 +133,7 @@
 133|toy mummy|a toy mummy|dim mime
 134|timer|an egg timer|tumour, dimmer
 135|oatmeal|a bowl of oatmeal porridge|timely
-136|tame jay|a tame blue jay|damage
+136|tame jay|a pinky-brown jay bird eating seeds from an open hand|damage
 137|tomahawk|a tomahawk axe|atomic
 138|dome ivy|an ivy-covered dome|time-wave
 139|tame ape|a tame little ape|tempo, dump
@@ -147,7 +147,7 @@
 147|truck|a pickup truck|track, trick
 148|trophy|a gold trophy|turf, dwarf
 149|drop|a big water drop|trap, tribe
-150|atlas|an open atlas of the world|tools, dolls
+150|atlas|an open atlas book showing a coloured map of the world|tools, dolls
 151|tealight|a tealight candle|toilet, delta
 152|talon|an eagle's talon|Dylan, outline
 153|tall emu|a very tall emu|dilemma
@@ -168,7 +168,7 @@
 168|tea chef|a chef pouring tea|Toshiba
 169|tea ship|a tall-masted tea clipper ship|headship
 170|taxi|a black taxi cab|tax, ducks
-171|ticket|a ticket|decade, duct
+171|ticket|a blank paper raffle ticket stub with no writing|decade, duct
 172|toucan|a toucan with a colourful beak|token, deacon
 173|dog ham|a dog running off with a ham|outcome
 174|tiger|a striped tiger|degree, decor
@@ -183,7 +183,7 @@
 183|dove home|a dovecote with doves|defame
 184|Dover|the white cliffs of Dover|diver, devour
 185|duffel|a duffel bag|devil, tivoli
-186|TV show|a TV showing a puppet show|whitefish
+186|TV show|an old television set showing a little puppet show|whitefish
 187|tea fig|a ripe fig in a teacup|tough egg
 188|dive off|a diver diving off a high board|tough hoof
 189|toffee pie|a toffee pie|tofu pie
@@ -195,13 +195,13 @@
 195|table|a wooden table|double, tableau
 196|tea bush|a tea bush with green leaves|Depeche
 197|teabag|a teabag|topic, tobacco
-198|deep wave|a huge ocean wave|tipoff
+198|tuba ivy|a brass tuba wrapped in green ivy|deep wave, tipoff
 199|wet puppy|a soaking wet puppy shaking off bath water|hot puppy
 200|noisy zoo|a noisy zoo with animals|noises, nieces
 201|nest|a bird's nest with eggs|honesty, insight
 202|new sun|a bright new sunrise|ensign, unison
 203|hansom|a Victorian hansom cab|handsome, enzyme
-204|Windsor|Windsor Castle|answer, nicer
+204|Windsor|Windsor Castle with its round tower and flag|answer, nicer
 205|nozzle|a hose nozzle spraying water|nasal, Winslow
 206|noisy shoe|a squeaky shoe|new sash
 207|nosy cow|a nosy cow peering over a fence|Anzac
@@ -210,24 +210,24 @@
 210|nuts|a pile of walnuts|knots, ants
 211|untidy|an untidy messy bedroom|wanted, antidote
 212|antenna|a television antenna|Newton, Anton
-213|anatomy|an anatomy skeleton model|anthem
+213|anatomy|an anatomy skeleton model on a stand|anthem
 214|winter|a snowy winter scene|hunter, window
 215|noodle|a bowl of noodles|needle, Natalie
-216|night watch|a night watchman with a lantern|Natasha
+216|night watch|a night watchman holding a lantern under the stars|Natasha
 217|nighthawk|a nighthawk bird|antique, indigo
 218|endive|an endive salad leaf|native
 219|windup|a wind-up toy robot|Entebbe
-220|neon sea|a glowing neon sea at night|nuns, nuance
-221|neon tie|a glowing neon necktie|unwind
-222|neon hen|a glowing neon hen|unknown
-223|neon emu|a glowing neon emu|new gnome
-224|neon arrow|a glowing neon arrow|nunnery
-225|neon owl|a glowing neon owl|Nunnally
+220|neon sea|a sea glowing bright neon blue at night|nuns, nuance
+221|neon tie|a necktie made of glowing neon light|unwind
+222|neon hen|a hen made of glowing neon light|unknown
+223|neon emu|an emu made of glowing neon light|new gnome
+224|neon arrow|an arrow made of glowing neon light|nunnery
+225|neon owl|an owl made of glowing neon light|Nunnally
 226|ninja|a ninja in black|neon shoe
-227|neon cow|a glowing neon cow|neon key
-228|neon ivy|glowing neon ivy|Nineveh
-229|neon pie|a glowing neon pie|neon web
-230|new mouse|a computer mouse|names
+227|neon cow|a cow made of glowing neon light|neon key
+228|neon ivy|ivy leaves made of glowing neon light|Nineveh
+229|neon pie|a pie made of glowing neon light|neon web
+230|new mouse|a sleek computer mouse|names
 231|nomad|a desert nomad with a camel|inmate
 232|anemone|a sea anemone|honeymoon
 233|gnome home|a gnome's toadstool house|new mummy
@@ -238,7 +238,7 @@
 238|nymph|a woodland nymph|
 239|gnome bow|a gnome with a bow and arrow|new map
 240|nurse|a nurse|Norse
-241|nerd|a boy with big glasses and books|north, inward
+241|nerd|a cheerful boy with big round glasses carrying a pile of books|north, inward
 242|neuron|a glowing neuron brain cell|Narnia
 243|hen worm|a hen pulling up a worm|norm
 244|hen rower|a hen rowing a boat|nearer
@@ -246,7 +246,7 @@
 246|new arch|a newly built stone arch|energy
 247|anorak|a yellow anorak raincoat|Newark
 248|hen roof|a hen on a roof|nerve
-249|unwrap|a present being unwrapped|nearby
+249|unwrap|hands unwrapping a gift box with a ribbon|nearby
 250|hen lasso|a cowboy hen swinging a lasso|annals
 251|unlit|an unlit candle|inlet, newlywed
 252|honey lion|a lion licking honey|nylon
@@ -287,7 +287,7 @@
 287|navy key|a navy-blue key|invoke
 288|navy wave|a deep blue wave|
 289|navy boy|a sailor boy in navy uniform|navy bee
-290|Anubis|the Egyptian god Anubis|knobs
+290|Anubis|a statue of the jackal-headed Egyptian god Anubis|knobs
 291|knee pad|a knee pad|input
 292|honey bun|a sticky honey bun|new pen
 293|new palm|a young palm tree|
@@ -297,4 +297,4 @@
 297|new book|a new book|
 298|honey puff|a honey puff pastry|
 299|new baby|a newborn baby in a blanket|
-300|Moses|Moses parting the sea|mazes
+300|Moses|Moses with his staff parting the Red Sea|mazes
